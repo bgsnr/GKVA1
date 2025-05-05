@@ -1,4 +1,4 @@
-*﻿*Hasil Praktikum GKV A1**
+# HASIL PRAKTIKUM GKV A1
 
 _Bagas Nur Ardianto_
 _24060123140063_
